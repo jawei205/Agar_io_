@@ -5,7 +5,7 @@ float ys = 0;
 float radius;
 int score = 0;
 color aColor = color( random(255), random(255), random(255) ); 
-
+//
 Nahrung[] nahrung = new Nahrung[30];
 
 void setup() {
